@@ -42,9 +42,9 @@ if(room == room_game)
 	/// @DnDHash : 40455F87
 	/// @DnDParent : 0A024B59
 	/// @DnDArgument : "op" "4"
-	/// @DnDArgument : "value" "100"
+	/// @DnDArgument : "value" "1000"
 	if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-	if(__dnd_score >= 100)
+	if(__dnd_score >= 1000)
 	{
 		/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 		/// @DnDVersion : 1

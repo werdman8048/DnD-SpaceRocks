@@ -228,9 +228,9 @@ switch(l3470455C_0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 624B6AE5
 		/// @DnDParent : 175C4897
-		/// @DnDArgument : "color" "$FF162AFF"
-		draw_set_colour($FF162AFF & $ffffff);
-		var l624B6AE5_0=($FF162AFF >> 24);
+		/// @DnDArgument : "color" "$FF16FF32"
+		draw_set_colour($FF16FF32 & $ffffff);
+		var l624B6AE5_0=($FF16FF32 >> 24);
 		draw_set_alpha(l624B6AE5_0 / $ff);
 	
 		/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
